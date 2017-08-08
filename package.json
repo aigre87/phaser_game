@@ -1,0 +1,24 @@
+{
+  "name": "phaser_game",
+  "version": "1.0.0",
+  "description": "phaser game 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aigre87/phaser_game.git"
+  },
+  "author": "g.ablyazov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aigre87/phaser_game/issues"
+  },
+  "homepage": "https://github.com/aigre87/phaser_game#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-watch": "^4.3.11"
+  }
+}
